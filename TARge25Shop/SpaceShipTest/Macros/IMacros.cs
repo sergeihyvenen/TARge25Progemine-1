@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SpaceShipTest.Macros
+namespace TARge25Shop.Spaceship.Test.Macros
 {
     public interface IMacros
     {
